@@ -1,4 +1,4 @@
-package smarteq.weatheralert;
+package smarteq.weatheralert.model;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

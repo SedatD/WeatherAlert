@@ -1,4 +1,4 @@
-package smarteq.weatheralert;
+package smarteq.weatheralert.controller;
 
 import android.content.Context;
 import android.content.Intent;
@@ -6,6 +6,8 @@ import android.media.Ringtone;
 import android.media.RingtoneManager;
 import android.net.Uri;
 import android.support.v4.content.WakefulBroadcastReceiver;
+
+import smarteq.weatheralert.MainActivity;
 
 /**
  * Created by SD on 4.03.2017

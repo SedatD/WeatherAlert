@@ -34,6 +34,11 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.Calendar;
 
+import smarteq.weatheralert.controller.AlarmReceiver;
+import smarteq.weatheralert.controller.DBHelper;
+import smarteq.weatheralert.controller.MyConstants;
+import smarteq.weatheralert.view.MyDialogFragment;
+
 public class MainActivity extends FragmentActivity {
     private static int timeHour = Calendar.getInstance().get(Calendar.HOUR_OF_DAY);
     private static int timeMinute = Calendar.getInstance().get(Calendar.MINUTE);

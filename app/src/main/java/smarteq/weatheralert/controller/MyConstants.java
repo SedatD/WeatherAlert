@@ -1,4 +1,4 @@
-package smarteq.weatheralert;
+package smarteq.weatheralert.controller;
 
 /**
  * Created by SD on 4.03.2017

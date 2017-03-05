@@ -1,4 +1,4 @@
-package smarteq.weatheralert;
+package smarteq.weatheralert.controller;
 
 import android.content.ContentValues;
 import android.content.Context;

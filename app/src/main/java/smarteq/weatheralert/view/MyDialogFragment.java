@@ -1,4 +1,4 @@
-package smarteq.weatheralert;
+package smarteq.weatheralert.view;
 
 import android.app.Dialog;
 import android.app.TimePickerDialog;
@@ -8,6 +8,8 @@ import android.os.Message;
 import android.support.annotation.NonNull;
 import android.support.v4.app.DialogFragment;
 import android.widget.TimePicker;
+
+import smarteq.weatheralert.controller.MyConstants;
 
 /**
  * Created by SD on 4.03.2017
